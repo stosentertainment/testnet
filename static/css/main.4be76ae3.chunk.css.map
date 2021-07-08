@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/Menu/style.css"],"names":[],"mappings":"AACA,yBACC,mDAAA,CACG,qBAAsB,CACtB,uBAA2B,CAC3B,2BACJ","file":"main.4be76ae3.chunk.css","sourcesContent":["\r\nnav ~ div > div:nth-child(2) {\r\n\tbackground-image: url(./bg.jpg);\r\n    background-size: cover;\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n}"]}
